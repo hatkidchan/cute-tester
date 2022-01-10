@@ -1,10 +1,5 @@
 main.sqlite
-__pycache__/lists.cpython-39.pyc
-cogs/__pycache__/admin.cpython-39.pyc
-cogs/__pycache__/fun.cpython-39.pyc
+__pycache__/
+.vscode/
 .env
-.vscode/launch.json
-cogs/__pycache__/starboard.cpython-39.pyc
-main.sqlite
-
-cogs/__pycache__/social_credit.cpython-39.pyc
+venv/
